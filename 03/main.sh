@@ -1,4 +1,4 @@
 #!/bin/bash
 
+. ./colors.sh
 . ./output.sh
-. ./write.sh
